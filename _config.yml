@@ -1,0 +1,19 @@
+title: Mira Finance Data Room
+description: All the info you need.
+theme: just-the-docs
+
+url: https://mirafinance.io
+
+logo: "/miralogo.png"
+
+# responsive_image:
+#   template: _includes/responsive-image.html
+#   sizes:
+#     - width: 320
+#     - width: 480
+#     - width: 800
+
+plugins:
+  - jekyll-target-blank
+  - jekyll-pdf-embed
+  # - jekyll-responsive-image

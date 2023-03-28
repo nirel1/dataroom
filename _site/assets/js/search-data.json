@@ -1,0 +1,236 @@
+{"0": {
+    "doc": "Burn Rate",
+    "title": "Burn Rate",
+    "content": "view spreadsheet . ",
+    "url": "/docs/Financial/burn.html",
+    "relUrl": "/docs/Financial/burn.html"
+  },"1": {
+    "doc": "Investment Cap Table",
+    "title": "Investment Cap Table",
+    "content": "view spreadsheet . ",
+    "url": "/docs/Financial/cap.html",
+    "relUrl": "/docs/Financial/cap.html"
+  },"2": {
+    "doc": "How did you meet your co-founder?",
+    "title": "How did you meet your co-founder?",
+    "content": "My co-founder, Andrew, and I grew up in the same neighborhood. We were both into crypto pretty early, like to debate and research, and have a lot of opinions - as you can imagine, we’ve had our share of heated discussions and we’ve explored the weeds of many projects over the years. This past summer, we were both sharing our frustrations about crypto sentiment and retail exposure. It quickly dawned on us that we could take a stab at it ourselves. Mira Finance. We knew that this idea was the one, and we’ve been full-time, heads down working since then. ",
+    "url": "/docs/Q/A/co.html",
+    "relUrl": "/docs/Q/A/co.html"
+  },"3": {
+    "doc": "Slide Deck",
+    "title": "Slide Deck",
+    "content": "deck.mirafinance.io . ",
+    "url": "/docs/Business/deck.html",
+    "relUrl": "/docs/Business/deck.html"
+  },"4": {
+    "doc": "Video Demo",
+    "title": "Video Demo",
+    "content": "demo.mirafinance.io . ",
+    "url": "/docs/Business/demo.html",
+    "relUrl": "/docs/Business/demo.html"
+  },"5": {
+    "doc": "Deployment Plan",
+    "title": "Deployment Plan",
+    "content": ". With the funding from our pre-seed raise, we plan to allocate roughly: . $400,000 towards smart contract upgrades, frontend integration, UX, versioning new features, a mobile app, wallet functionality, and fiat on/off ramps. $150,000 towards US compliance w/ SEC &amp; CFTC and pursuing registration of our products as securities. $100,000 towards security audits of our Move protocol, dApp, backend server, and sdks . $100,000 towards our marketing campaign and the launch of a social incentive / referral rewards program . $100,000 towards the team salary for four of us . $50,000 towards legal work - this includes incorporating in the US, abroad, and gaining status to operate with custodial banks like Protego. $50,000 towards listing our index fund products on centralized exchanges like Coinbase. $20,000 towards attending future conferences and hackathons, such as Converge, xHack . $15,000 towards building AML, likely with TRM labs, and a KYC process . $15,000 towards R&amp;D to explore other innovations and revenue channels . ",
+    "url": "/docs/Financial/dist.html",
+    "relUrl": "/docs/Financial/dist.html"
+  },"6": {
+    "doc": "Executive Summary",
+    "title": "Executive Summary",
+    "content": "Cryptocurrency has raised considerable interest for its potential to simplify the world’s financial access, efficiency, and infrastructure as a whole. With US regulation on the horizon, digital assets are on the cusp of a transformation from speculative value to utility. Fidelity found that over 73% of institutional investors plan to invest in digital assets and 52% of American adults are interested in having them in their retirement accounts. But with tens of thousands of digital assets to choose from, many don’t know where to start. Mira aims to solve this with institutional grade index investments that provide broad exposure to the crypto market. Similar to the SPY in traditional finance, our thematic and market capitalization weighted indices will provide simple asset exposure so that investors don’t have to choose. On our platform, managers can design and actively manage their own funds, recruiting investors and earning management fees in the process. We’re building a community of experts, fund managers, institutions, and aspiring traders that can research, learn, and manage their assets on a professional scale. We plan to launch a multi-audited platform with fully collateralized funds and regulatory compliance. The team at Mira Finance is based in Washington DC and has prior experience in blockchain engineering, finance, and public policy. We’re combining our knowledge of digital assets to protect consumers, promote sound regulatory policy on Capitol Hill, and bring trust to the industry. ",
+    "url": "/docs/Business/exec.html",
+    "relUrl": "/docs/Business/exec.html"
+  },"7": {
+    "doc": "How do you solve these problems?",
+    "title": "How do you solve these problems?",
+    "content": "We built our own protocol to architect index funds with rebalancing, versatile management, and low-latency swaps. The protocol is integrated with DeFi products and our UX refines user interactions for the simplest experience. ",
+    "url": "/docs/Q/A/how.html",
+    "relUrl": "/docs/Q/A/how.html"
+  },"8": {
+    "doc": "Incorporation",
+    "title": "Incorporation",
+    "content": "View PDF ",
+    "url": "/docs/Legal/incorp.html",
+    "relUrl": "/docs/Legal/incorp.html"
+  },"9": {
+    "doc": "Home",
+    "title": "Strobe Data Room",
+    "content": "Welcome to the data room. Navigate using the sidebar to find everything you need. If you’d like to share, here’s our public site: strobe.space . By entering this site, you consent to our NDA. ",
+    "url": "/#strobe-data-room",
+    "relUrl": "/#strobe-data-room"
+  },"10": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    "relUrl": "/"
+  },"11": {
+    "doc": "Financial",
+    "title": "Financial",
+    "content": "Information on investing and our health. ",
+    "url": "/docs/financial/index.html",
+    "relUrl": "/docs/financial/index.html"
+  },"12": {
+    "doc": "Business",
+    "title": "Business",
+    "content": "All content relating to the business plan, monetization, and roadmap. ",
+    "url": "/docs/Business/index.html",
+    "relUrl": "/docs/Business/index.html"
+  },"13": {
+    "doc": "Legal",
+    "title": "Legal",
+    "content": " ",
+    "url": "/docs/legal/index.html",
+    "relUrl": "/docs/legal/index.html"
+  },"14": {
+    "doc": "Q&A",
+    "title": "Q&amp;A",
+    "content": "More questions, answered. ",
+    "url": "/docs/qa/index.html#qa",
+    "relUrl": "/docs/qa/index.html#qa"
+  },"15": {
+    "doc": "Q&A",
+    "title": "Q&A",
+    "content": " ",
+    "url": "/docs/qa/index.html",
+    "relUrl": "/docs/qa/index.html"
+  },"16": {
+    "doc": "What is the key innovation?",
+    "title": "What is the key innovation?",
+    "content": "Building our own infrastructure to support index fund products was a big challenge, but it comes with a lot of perks. We have complete customizability from the top down, which makes it really easy to upgrade contracts for new user capabilities, product features, and plugging in other protocols like staking. Deep inside the infrastructure, we took a unique approach to designing the investment pools. For each pool that’s initialized, a resource account is created in the code, and funds are stored on that account. A ledger is created to keep track of investments into the pool, which are essentially token transfers to that non-human account. The only functions to interact with a pool are the highly protected invest() and withdraw(). Withdrawing relies on the balance stored in the ledger, which can only be updated by investing from a governed list of tokens. Naturally, the resource accounts and ledgers are not accessible. In other words, the token transfer processes are foolproof. This insulates any fund from being drained by a single account. What we expect to see is funds where some investments are never withdrawn, because users lose their keys - part of the trade-off of building complete self-custody for investors. Our protocol innovations allow us to design index funds where the manager can collect a fee, automate rebalancing, update their fund allocation, and set minimum withdrawal/contribution requirements without an ability to access any of the funds that are invested. ",
+    "url": "/docs/Q/A/key.html",
+    "relUrl": "/docs/Q/A/key.html"
+  },"17": {
+    "doc": "White Paper",
+    "title": "White Paper",
+    "content": "paper.mirafinance.io . ",
+    "url": "/docs/Business/paper.html",
+    "relUrl": "/docs/Business/paper.html"
+  },"18": {
+    "doc": "Tech Specs",
+    "title": "Tech Specs",
+    "content": "View PDF ",
+    "url": "/docs/Business/plan.html",
+    "relUrl": "/docs/Business/plan.html"
+  },"19": {
+    "doc": "Revenue Streams",
+    "title": "Revenue Streams",
+    "content": "Our protocol is designed to collect on four main sources of revenue. ",
+    "url": "/docs/Business/rev.html",
+    "relUrl": "/docs/Business/rev.html"
+  },"20": {
+    "doc": "Revenue Streams",
+    "title": "Management Fees",
+    "content": "All index funds (Layer1s, Wireless, DeFi, Gaming, NFTs, etc.) that Mira creates will charge a 0.95% management fee, collected yearly. ",
+    "url": "/docs/Business/rev.html#management-fees",
+    "relUrl": "/docs/Business/rev.html#management-fees"
+  },"21": {
+    "doc": "Revenue Streams",
+    "title": "Creation Fees",
+    "content": "Investment Managers are charged a fee upon publishing their own fund - this can be charged as a fixed fee or as a percentage of their deposit. ",
+    "url": "/docs/Business/rev.html#creation-fees",
+    "relUrl": "/docs/Business/rev.html#creation-fees"
+  },"22": {
+    "doc": "Revenue Streams",
+    "title": "Investment Fees",
+    "content": "Investors are charged a fee when they invest into any fund created by another user (not Mira) - this can be charged as a fixed fee or as a percentage of their deposit. ",
+    "url": "/docs/Business/rev.html#investment-fees",
+    "relUrl": "/docs/Business/rev.html#investment-fees"
+  },"23": {
+    "doc": "Revenue Streams",
+    "title": "Payment for Order Flow",
+    "content": "Other DeFi protocols will pay to be integrated into our site in exchange for forwarded transaction volume. We expect this to be lucrative when usage on our platform increases. ",
+    "url": "/docs/Business/rev.html#payment-for-order-flow",
+    "relUrl": "/docs/Business/rev.html#payment-for-order-flow"
+  },"24": {
+    "doc": "Revenue Streams",
+    "title": "*",
+    "content": "The smart contract is designed so that the Mira account (multi-sig wallet of founders) can update the creation and investment fees at any time. Similarly, the management fees charged for each Mira fund can be updated at any time. The maximum fee threshold (10%) is built into the contract and declared at module publication. Users consent to this when they first enter our website and sign our disclaimer. However, none of our fee collection is retroactive - fee changes only apply to future collections. Any adjustments will be announced at a minimum of 7 days prior to taking effect. ",
+    "url": "/docs/Business/rev.html",
+    "relUrl": "/docs/Business/rev.html"
+  },"25": {
+    "doc": "What are the risks of the business?",
+    "title": "What are the risks of the business?",
+    "content": "Regulatory cost for U.S. Compliance: . The cost to offer our services to the U.S. may cost millions of dollars and they may not even be suitable to regulators; which could result in us getting denied. We will work with our lawyers and make adjustments to the business model so we can meet all the criteria set for us. Performance risk: . When you buy into a Mira index fund, you are buying a tokenized trading strategy that comes with its own set of performance risks. No trading strategy is guaranteed to make money and users should be aware of that when deciding if they want to buy and hold an Index. All of the performance metrics for each fund will be displayed on Mira Finance’s website and are also visible on-chain. ",
+    "url": "/docs/Q/A/risks.html",
+    "relUrl": "/docs/Q/A/risks.html"
+  },"26": {
+    "doc": "Detailed Roadmap",
+    "title": "Detailed Roadmap",
+    "content": " ",
+    "url": "/docs/Business/road.html",
+    "relUrl": "/docs/Business/road.html"
+  },"27": {
+    "doc": "Detailed Roadmap",
+    "title": "Q4 2022",
+    "content": "Product Development: . Finish integrating the dApp with our Move protocol. Complete integrations with Notifi, The Tie, and SquidSwap. Continue working on other sdk/widget integrations with our DeFi partners. Simulations: . Test the usage limits that our infrastructure can support. This is mostly for our server and site deployment, as we rely on Aptos/Sui assumptions for on-chain function calls. Audits: . Complete our first protocol audit with OtterSec. This excludes the audits done by LayerZero, Axelar, and Pontem. Finance: . Complete our pre-seed funding round. ",
+    "url": "/docs/Business/road.html#q4-2022",
+    "relUrl": "/docs/Business/road.html#q4-2022"
+  },"28": {
+    "doc": "Detailed Roadmap",
+    "title": "Q1 2023",
+    "content": "Product Development: . Launch our V1 platform. Continue building out integrations and expand the cross-chain swap optimization to cover more tokens and more chains. Continue testing and building out the features for V2. Audits: . Undergo another audit, diving into contract upgrades, new features, and our server. Legal: . Finish our compliance work to meet the US legal requirements to build a white-label product for Protego Bank. ",
+    "url": "/docs/Business/road.html#q1-2023",
+    "relUrl": "/docs/Business/road.html#q1-2023"
+  },"29": {
+    "doc": "Detailed Roadmap",
+    "title": "Q2 2023",
+    "content": "Product Development: . Expand our multi-wallet configuration. Complete our fiat on-ramp. Add platform languages for our international markets. Begin work on our mobile apps. Marketing . Begin marketing campaign to advertise our index funds to new entrants and institutions. Finance: . Onboard analysts to tailor our distributions and reports for index fund products. ",
+    "url": "/docs/Business/road.html#q2-2023",
+    "relUrl": "/docs/Business/road.html#q2-2023"
+  },"30": {
+    "doc": "Detailed Roadmap",
+    "title": "Q3 2023",
+    "content": "Product Development: . Release our treasury management product for crypto institutions and high net worth individuals. Launch V2. Audit . Undergo third audit on new products and our mobile app. Legal: . Pursue legal work and allocate capital for compliance with SEC and CFTC. ",
+    "url": "/docs/Business/road.html#q3-2023",
+    "relUrl": "/docs/Business/road.html#q3-2023"
+  },"31": {
+    "doc": "Detailed Roadmap",
+    "title": "Q4 2023",
+    "content": "Product Development: . Launch our mobile app. Integrate NFTs, real estate (lofty.ai), and other tokenized assets into fund protocol. Marketing: . Launch our Social Media and Referral Rewards Incentivization Program, onboarding influencers and large communities to our platform. Finance: . Consider Seed A funding round to scale up and target bigger players. ",
+    "url": "/docs/Business/road.html#q4-2023",
+    "relUrl": "/docs/Business/road.html#q4-2023"
+  },"32": {
+    "doc": "SAFE Note",
+    "title": "SAFE Note",
+    "content": "View PDF ",
+    "url": "/docs/Legal/safe.html",
+    "relUrl": "/docs/Legal/safe.html"
+  },"33": {
+    "doc": "SAFE Note",
+    "title": "SAFE Note",
+    "content": "View PDF ",
+    "url": "/docs/Financial/safe.html",
+    "relUrl": "/docs/Financial/safe.html"
+  },"34": {
+    "doc": "What is your target market and its size?",
+    "title": "What is your target market and its size?",
+    "content": "The addressable market for passive investment is huge, at about $11T, and is deeply underexposed to this new financial sector. We’re not sure whether it will be large swathes of users, treasuries, banks, or high net worth individuals, but to succeed we need to capture only a small segment of one of these spaces. We believe that observing our users post launch will signal where we can pivot to focus our resources. Ultimately, our goal is to proliferate in the index and ETF space in the US. The US has some of the most active retail and institutional investment, and crypto index funds have yet to gain traction here. We’re currently incorporated and planning to launch internationally, while we work on our legal side to establish presence in the US. ",
+    "url": "/docs/Q/A/target.html",
+    "relUrl": "/docs/Q/A/target.html"
+  },"35": {
+    "doc": "Why is now good timing for your business?",
+    "title": "Why is now good timing for your business?",
+    "content": "Self-custody is a huge headwind. People are losing trust in institutions, and want to take control of their investments. We’re at the early onset of an unprecedented transformation in digital payments, investing, and capital formation. An early lead in asset aggregation will be very sticky over the next 5-10 years. ",
+    "url": "/docs/Q/A/timing.html",
+    "relUrl": "/docs/Q/A/timing.html"
+  },"36": {
+    "doc": "What traction have you received so far?",
+    "title": "What traction have you received so far?",
+    "content": "We won two hackathons: xHack, hosted by Wormhole and Jump Capital, and DoraHacks. We built multiple fully functional smart contract modules, a fluid UX, an integrated dApp, and a backend server to manage off-chain data in less than two months. We’ve made partnerships with LayerZero, Axelar, Pontem, Notifi, and other players that streamline functionality for our protocol. We’ve built a strong community of beta users on our Discord (6k) and Twitter (8k). ",
+    "url": "/docs/Q/A/traction.html",
+    "relUrl": "/docs/Q/A/traction.html"
+  },"37": {
+    "doc": "What problems do you solve?",
+    "title": "What problems do you solve?",
+    "content": "Custody . Investment management means sacrificing custody. It makes sense in TradFi, but need not in Crypto. There should be a better solution to building investment funds without transferring ownership to a manager or entity. Transferability . Moving across applications is tedious - this leads to separation between tokens that are active (DeFi, governance, P2P), and those that are investments. If only users had a better way to engage their passive tokens without jumping around. Complexity . The Crypto user experience is convoluted. Users must keep track of gas fees, block generation, slippage, exchange rates, token types, bridging, and more. We make it simple. ",
+    "url": "/docs/Q/A/whatproblems.html",
+    "relUrl": "/docs/Q/A/whatproblems.html"
+  },"38": {
+    "doc": "What does your company do?",
+    "title": "What does your company do?",
+    "content": "At Mira Finance, we: . Create Index Fund Products: . giving investors broad, diversified exposure to crypto assets on different chains - in one click. Host a Two-Sided Fund Marketplace: . extending our protocol to investment managers to create their own funds and recruit investors, and to investors to research and deploy capital. Operate a one stop-shop: . integrated with multi-wallet compatibility, fiat on-ramps, and DeFi strategies like staking and borrowing, so that users can make the most of their crypto without switching sites. ",
+    "url": "/docs/Q/A/whatyoudo.html",
+    "relUrl": "/docs/Q/A/whatyoudo.html"
+  }
+}
